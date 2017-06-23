@@ -8,7 +8,6 @@ import ReactDOM from 'react-dom';
 import App from './App';
 
 ReactDOM.render(
-  <App />,
+  <App txt="Rebekah's first React app" />,
   document.getElementById('root')
   );
-
